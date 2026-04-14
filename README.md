@@ -22,3 +22,4 @@ A Streamlit app was created to allow user input and prediction.
 - final_notebook.ipynb
 - model.pkl
 - app.py
+- colomuns.pkl
