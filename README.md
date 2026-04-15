@@ -18,6 +18,10 @@ Random Forest achieved the best performance.
 ## Deployment
 A Streamlit app was created to allow user input and prediction.
 
+## How to run
+pip install -r requirements.txt  
+streamlit run app.py
+
 ## Files
 - final_notebook.ipynb
 - model.pkl
