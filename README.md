@@ -23,3 +23,4 @@ A Streamlit app was created to allow user input and prediction.
 - model.pkl
 - app.py
 - colomuns.pkl
+- requirements.txt
